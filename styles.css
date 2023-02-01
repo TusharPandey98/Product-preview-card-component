@@ -20,7 +20,6 @@ body {
     font-size: 0.875rem;
     color: var(--color-grayish-blue);
     background-color: var(--color-dark-cream);
-    margin: 1rem;
 }
 
 .button[data-icon="shopping-cart"]::before {
